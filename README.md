@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Rifqi Afriansyah</h1>
-<h3 align="center">Code is like humor. When you have to explain it, it's 👻bad</h3>
+<h3 align="center">Code is like humor. When you have to explain it, it's bad👻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifqiafr&label=Profile%20views&color=0e75b6&style=flat" alt="rifqiafr" /> </p>
 
