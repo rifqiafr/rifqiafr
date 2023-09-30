@@ -1,16 +1,17 @@
-### Hi there 👋
+# I'm Muhamad Rifqi Afriansyah 👻
+><q>Code is like humor. When you have to explain it, it's bad🍵</q> 
 
-<!--
-**rifqiafr/rifqiafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👀
+- Sekarang menjadi mahasiswa dari Program Studi Informatika, Universitas Bengkulu.
+- Tertarik dengan dunia pemrograman.
+<br><br>
+<h1> <img src="https://www.iconsdb.com/icons/download/white/github-9-64.png" width="35" height="35"> GitHub Stats</h1>
+<p><img class="center" src="https://github-readme-stats.vercel.app/api?username=rifqiafr&show_icons=true&theme=gotham" alt="stats" />&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqiafr&layout=compact&theme=gotham" alt="toplang" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&width=90"/><hr>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+alalghzy/alalghzy is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
