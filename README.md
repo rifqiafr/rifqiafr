@@ -68,8 +68,8 @@ Although I don’t have specific projects to showcase yet, I'm continuously lear
 
 ## 🌍 Let's Connect
 
-- **[Instagram](https://www.instagram.com/rifqiafrnsyah/)** - A peek into my life and behind-the-scenes of my learning journey.
-- **[LinkedIn](https://www.linkedin.com/in/mrifqiaf/)** - Professional insights, collaborations, and networking opportunities.
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rifqiafrnsyah/) - A peek into my life and behind-the-scenes of my learning journey.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrifqiaf/) - Professional insights, collaborations, and networking opportunities.
 - **[GitHub](https://github.com/rifqiafr)** - Follow along my journey and keep an eye on upcoming projects!
 
 I believe in the power of collaboration and community. If you are as excited about **machine learning**, **data science**, or simply want to explore **interesting projects**, don’t hesitate to reach out. Let’s connect and create something **amazing**! 🌌
@@ -82,4 +82,4 @@ Be curious. Create. Connect.
 
 ---
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://www.brainyquote.com/quotes/nelson_mandela_378967)
