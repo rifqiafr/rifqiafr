@@ -53,11 +53,6 @@ Although I don’t have specific projects to showcase yet, I'm continuously lear
 ## 🛰️ My GitHub in Motion
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rifqiafr&show_icons=true&theme=algolia&hide_border=true&hide_title=true" alt="GitHub Stats" width="420">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rifqiafr&theme=algolia&hide_border=true" alt="GitHub Streak" width="420">
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifqiafr&theme=github_dark" alt="GitHub Summary" width="820">
 </p>
 
