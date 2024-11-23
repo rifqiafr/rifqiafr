@@ -67,14 +67,26 @@ Curious? Follow my repository to see **hidden experiments** and **side quests**.
 
 ---
 
-## 🛰️ Satellite View: Stats & Insights
+## 🛰️ Galactic Overview: My GitHub in Motion
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox" alt="GitHub Stats" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=merko&hide_border=true&hide_title=true" alt="GitHub Stats" width="420">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=merko&hide_border=true" alt="GitHub Streak" width="420">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" width="450">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="GitHub Summary" width="820">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0f2d3d&color=1e75ff&line=00bfff&point=1adbce&area=true&hide_border=true" alt="GitHub Contribution Graph" width="820">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophies">
+</p>
+
+---
 
 ## 🌀 Random Facts About Me
 
