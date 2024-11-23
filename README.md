@@ -23,28 +23,7 @@ I'm passionate about using data and machine learning to **solve real-world probl
 
 ---
 
-## 📊 My Works: Projects & Experiments
-
-Here’s a glimpse into some of the projects I’ve crafted with passion:
-
-### 🧠 [**DeepVision**](https://github.com/rifqiafr/deepvision)
-**Status**: Completed ✅  
-A computer vision project utilizing **Convolutional Neural Networks (CNNs)** to classify images with high accuracy. Trained on custom datasets and fine-tuned to perform in various environments.
-
-### 🤖 [**NLP-Insight**](https://github.com/rifqiafr/nlp-insight)
-**Status**: In Progress 🌱  
-A deep learning project focused on **Natural Language Processing (NLP)**, utilizing transformer models like **BERT** to perform sentiment analysis and text summarization.
-
-### 📈 [**Data Wizardry**](https://github.com/rifqiafr/data-wizardry)
-**Status**: Completed ✅  
-A collection of notebooks showcasing **data cleaning**, **EDA (Exploratory Data Analysis)**, and **feature engineering**—from basic to advanced techniques—using **Pandas** and **Scikit-Learn**.
-
-### 🌟 Hidden Labs
-Follow my repository to see **hidden experiments** and exciting ideas. There’s always something brewing behind the scenes.
-
----
-
-## 💡 Technologies I Use
+## 🛠️ Technologies I Use
 
 ### 🌐 Languages of Choice
 - **Python**: My primary language for data science and machine learning—versatile, powerful, and full of great libraries.
@@ -56,6 +35,18 @@ Follow my repository to see **hidden experiments** and exciting ideas. There’s
 - **Deep Learning**: TensorFlow, Keras, PyTorch
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, D3.js
 - **Tools & Platforms**: Jupyter Notebook, Google Colab, Streamlit (for deploying ML apps)
+
+---
+
+## 🌱 What I'm Currently Working On
+
+I'm currently diving deep into building my understanding of:
+
+- **Machine Learning Models**: Learning everything from **linear regressions** to more advanced **neural networks**.
+- **Deep Learning for Computer Vision**: Experimenting with CNNs (Convolutional Neural Networks) to analyze and classify images.
+- **Natural Language Processing**: Understanding how to work with text data using NLP tools, such as **transformer-based models**.
+
+Although I don’t have specific projects to showcase yet, I'm continuously learning and experimenting. I often work through **challenges**, **Kaggle competitions**, and **research papers** to improve my skills. Stay tuned—there will be exciting things here soon!
 
 ---
 
@@ -82,9 +73,9 @@ Follow my repository to see **hidden experiments** and exciting ideas. There’s
 
 ## 🌍 Let's Connect
 
-- **[Instagram](https://www.instagram.com/rifqiafrnsyah/)** - A peek into my life and behind-the-scenes of my projects.
+- **[Instagram](https://www.instagram.com/rifqiafrnsyah/)** - A peek into my life and behind-the-scenes of my learning journey.
 - **[LinkedIn](https://www.linkedin.com/in/mrifqiaf/)** - Professional insights, collaborations, and networking opportunities.
-- **[GitHub](https://github.com/rifqiafr)** - Come explore my projects and contributions!
+- **[GitHub](https://github.com/rifqiafr)** - Follow along my journey and keep an eye on upcoming projects!
 
 I believe in the power of collaboration and community. If you are as excited about **machine learning**, **data science**, or simply want to explore **interesting projects**, don’t hesitate to reach out. Let’s connect and create something **amazing**! 🌌
 
