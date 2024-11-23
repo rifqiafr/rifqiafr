@@ -1,109 +1,92 @@
-# 👁️ Welcome to the Edge of Imagination ⚙️
+# 🌌 Welcome to My Corner of the Digital Universe
 
-**Greetings, Traveler!** 👋  
-You have stumbled upon the digital playground of **[Your Name]**—a **Technologist**, **Problem-Solver**, and **Creative Thinker**.  
-Here, pixels meet possibilities, code comes alive, and boundaries are pushed to make the impossible possible. 🌌✨
+**Hi there, I'm Muhamad Rifqi Afriansyah!** 👋  
+I’m a **Machine Learning Enthusiast**, **Deep Learning Explorer**, and **Data Science Practitioner**. Welcome to my **digital workshop** where curiosity meets code and data becomes **insightful art**. 🚀✨
 
-> "Curiosity will conquer fear even more than bravery will."  
-> — James Stephens
-
----
-
-## 🧩 The Architect's Blueprint
-
-**👨‍💻 Who Am I?**  
-I’m a **Code Artisan**, blending technology and creativity into elegant solutions. I believe that code is poetry, that great software is an art form, and that pushing technological boundaries leads to innovation.
-
-- **Code is an instrument**: Whether creating sleek user interfaces or diving into the intricacies of machine learning algorithms, my objective is to **compose symphonies** that make technology invisible.
-- **Building bridges**: I value connection—between **people**, **systems**, and **ideas**. I create software to bridge gaps that you never knew were there.
-- **Always exploring**: My toolkit is always expanding. From **JavaScript sorcery** to **backend alchemy**, I’m here to learn, grow, and make an impact.
-
-**🚀 Current Journey**  
-- 🌌 Embarking on new adventures in **Decentralized Applications (dApps)** and **Blockchain** technologies.
-- 🤖 Experimenting with AI to create **generative art** and **creative storytelling**.
-- 🛠️ Building developer tools that empower other creators.
+> "Learning never exhausts the mind."  
+> — Leonardo da Vinci
 
 ---
 
-## 📜 My Works: Echoes from the Workshop
+## 🔬 About Me: Crafting Intelligence with Data
 
-Here’s a glimpse into my most **unusual** and **exciting** creations:
+I'm passionate about using data and machine learning to **solve real-world problems** and to **discover hidden patterns** in the chaos of information. Here’s a glimpse into what drives me:
 
-### 🔗 [**Singularity Chat**](https://github.com/yourusername/singularity-chat)
-**Status**: In-Progress 🌱  
-A chatbot that takes you on a journey. It’s not just about answering questions—this AI **learns from you** and builds a narrative that evolves with your interaction. *A step towards storytelling AI.*
+- **👨‍💻 The Problem Solver**: I create, I learn, and I share. My ultimate goal is to **develop innovative solutions** that have a meaningful impact.
+- **🧠 Machine Learning & Deep Learning**: I explore and implement a wide range of models—from **neural networks** to **tree-based algorithms**—constantly seeking ways to make data more **predictive and actionable**.
+- **🎨 Creative Coder**: I enjoy working on engaging visualizations, turning complex results into meaningful stories.
 
-### 💡 [**Hive Mind**](https://github.com/yourusername/hive-mind)
+**🌱 Current Journey**  
+- 🌌 Enhancing my skills in **Computer Vision** and **Natural Language Processing**.
+- 🤖 Experimenting with **transformer architectures** and generative models.
+- 🔍 Diving deeper into **unsupervised learning** and **anomaly detection**.
+
+---
+
+## 📊 My Works: Projects & Experiments
+
+Here’s a glimpse into some of the projects I’ve crafted with passion:
+
+### 🧠 [**DeepVision**](https://github.com/rifqiafr/deepvision)
 **Status**: Completed ✅  
-A decentralized platform that lets individuals **crowdsource knowledge** using a P2P protocol. It is a collaborative project to explore **decentralized decision-making**.
+A computer vision project utilizing **Convolutional Neural Networks (CNNs)** to classify images with high accuracy. Trained on custom datasets and fine-tuned to perform in various environments.
 
-### 🌀 [**Reality Lens**](https://github.com/yourusername/reality-lens)
-**Status**: Experimental ⚗️  
-An AR/VR application that turns your room into a **canvas for your imagination**. Projects interactive elements onto real-world objects—powered by **three.js** and **ARCore**.
+### 🤖 [**NLP-Insight**](https://github.com/rifqiafr/nlp-insight)
+**Status**: In Progress 🌱  
+A deep learning project focused on **Natural Language Processing (NLP)**, utilizing transformer models like **BERT** to perform sentiment analysis and text summarization.
 
-### ✨ The Secret Lab Projects
-Curious? Follow my repository to see **hidden experiments** and **side quests**. Some of them might just surprise you.
+### 📈 [**Data Wizardry**](https://github.com/rifqiafr/data-wizardry)
+**Status**: Completed ✅  
+A collection of notebooks showcasing **data cleaning**, **EDA (Exploratory Data Analysis)**, and **feature engineering**—from basic to advanced techniques—using **Pandas** and **Scikit-Learn**.
 
----
-
-## 🧠 The Skillset: Tools of the Trade
-
-### 🌀 Languages of Choice
-- **Python**: The universal toolkit.
-- **Rust**: The language that makes you think twice, but runs thrice as fast.
-- **JavaScript (and TypeScript)**: The architect of the visual web.
-- **Solidity**: To forge contracts on the blockchain.
-
-### 🧰 Technologies I Work With
-- **Frontend**: React, Svelte, Three.js (because dimensions are meant to be explored)
-- **Backend**: Node.js, Express, FastAPI
-- **Blockchain**: Ethereum, Hardhat, IPFS
-- **Data & AI**: Pandas, PyTorch, Hugging Face transformers
-
-### 🛠️ Developer Toolbox
-- **Docker & Kubernetes**: For taming the chaos.
-- **CI/CD**: GitHub Actions, CircleCI - making the machine do the hard work.
-- **IDEs**: Neovim, VSCode - because coding can be beautiful.
+### 🌟 Hidden Labs
+Follow my repository to see **hidden experiments** and exciting ideas. There’s always something brewing behind the scenes.
 
 ---
 
-## 🛰️ Galactic Overview: My GitHub in Motion
+## 💡 Technologies I Use
+
+### 🌐 Languages of Choice
+- **Python**: My primary language for data science and machine learning—versatile, powerful, and full of great libraries.
+- **HTML & CSS**: To bring a bit of creative flair and visualization for projects.
+- **JavaScript**: Sometimes for visualizations with tools like **D3.js**.
+
+### 🛠️ Technologies I Work With
+- **Machine Learning**: Scikit-Learn, XGBoost, CatBoost
+- **Deep Learning**: TensorFlow, Keras, PyTorch
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, D3.js
+- **Tools & Platforms**: Jupyter Notebook, Google Colab, Streamlit (for deploying ML apps)
+
+---
+
+## 🛰️ My GitHub in Motion
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=merko&hide_border=true&hide_title=true" alt="GitHub Stats" width="420">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=merko&hide_border=true" alt="GitHub Streak" width="420">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifqiafr&show_icons=true&theme=algolia&hide_border=true&hide_title=true" alt="GitHub Stats" width="420">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rifqiafr&theme=algolia&hide_border=true" alt="GitHub Streak" width="420">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="GitHub Summary" width="820">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifqiafr&theme=github_dark" alt="GitHub Summary" width="820">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0f2d3d&color=1e75ff&line=00bfff&point=1adbce&area=true&hide_border=true" alt="GitHub Contribution Graph" width="820">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifqiafr&bg_color=0f2d3d&color=1e75ff&line=00bfff&point=1adbce&area=true&hide_border=true" alt="GitHub Contribution Graph" width="820">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=rifqiafr&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---
 
-## 🌀 Random Facts About Me
+## 🌍 Let's Connect
 
-- **🖌️ Hobby**: Exploring generative art—every algorithm has a personality.
-- **🎸 Love for Music**: Guitar riffs in a secluded room—bringing order to the chaos.
-- **🌍 Travel Enthusiast**: Prefer places without maps—the best treasures are undiscovered.
-- **📖 Favorite Read**: "Gödel, Escher, Bach: An Eternal Golden Braid"—because logic, art, and music belong together.
+- **[Instagram](https://www.instagram.com/rifqiafrnsyah/)** - A peek into my life and behind-the-scenes of my projects.
+- **[LinkedIn](https://www.linkedin.com/in/mrifqiaf/)** - Professional insights, collaborations, and networking opportunities.
+- **[GitHub](https://github.com/rifqiafr)** - Come explore my projects and contributions!
 
----
-
-## 🌌 Let's Connect
-
-- **[LinkedIn](https://www.linkedin.com/in/yourprofile/)** - For professional endeavors and collaborations.
-- **[Twitter](https://twitter.com/yourprofile)** - To follow along with my musings, experiments, and thoughts.
-- **[Portfolio](https://yourportfolio.com/)** - See my digital crafts and showcases.
-
-**⚠️** Brace yourself—things could get interesting. Don’t hesitate to **reach out** if you want to create something extraordinary. Every collaboration starts with a simple "Hello." 🌌
+I believe in the power of collaboration and community. If you are as excited about **machine learning**, **data science**, or simply want to explore **interesting projects**, don’t hesitate to reach out. Let’s connect and create something **amazing**! 🌌
 
 ---
 
