@@ -68,7 +68,7 @@ Although I don’t have specific projects to showcase yet, I'm continuously lear
 
 ## 🌍 Let's Connect
 
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rifqiafrnsyah/) - A peek into my life and behind-the-scenes of my learning journey.
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rifqiafrnsyah/) - A peek into my life and behind-the-scenes of my learning journey. <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrifqiaf/) - Professional insights, collaborations, and networking opportunities.
 - **[GitHub](https://github.com/rifqiafr)** - Follow along my journey and keep an eye on upcoming projects!
 
@@ -82,4 +82,4 @@ Be curious. Create. Connect.
 
 ---
 
-![Quote](https://www.brainyquote.com/quotes/nelson_mandela_378967)
+![Quote]([https://www.brainyquote.com/quotes/nelson_mandela_378967](https://www.brainyquote.com/photos_tr/en/n/nelsonmandela/378967/nelsonmandela1.jpg))
