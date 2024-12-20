@@ -1,4 +1,5 @@
 # 🌌 Welcome to My Corner of the Digital Universe
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadiqbal073&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadiqbal073" /> </p
 
 **Hi there, I'm Muhamad Rifqi Afriansyah!** 👋  
 I’m a **Machine Learning Enthusiast**, **Deep Learning Explorer**, and **Data Science Practitioner**. Welcome to my **digital workshop** where curiosity meets code and data becomes **insightful art**. 🚀✨
